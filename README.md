@@ -14,7 +14,7 @@
 
 #### Preview : 
 
-![dqnAgent_rt499_721s](https://github.com/Abeszz/SC3000-Assignment-1-Trained/assets/12322358/51cb4680-d2b0-4399-9f12-c2c39de7fb28)
+![dqnAgent_rt499_721s](https://github.com/Abeszz/SC3000-Assignment-1-Trained/assets/12322358/e532444b-e91f-4f17-aa55-bd49870d1723)
 
 ## dqnAgent_best.pkl
 
